@@ -1,0 +1,12 @@
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+.header {
+  padding: 2%;
+  text-align: left;
+  background: #1F4488;
+  color: white;
+  font-size: 50px;
+}
